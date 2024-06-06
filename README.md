@@ -22,7 +22,7 @@
 * アプリの多言語対応
 
 ## Downloads
- [Particle-Converter/Release](https://github.com/kemo14331/Particle-Converter/releases/latest)
+ [Particle-Converter/Release](https://github.com/Onlinerocker/Particle-Converter/releases/latest)
  
 ## Requirement
  
